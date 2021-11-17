@@ -5,16 +5,26 @@
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning PYTHON,MYsql coding
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+MuayThai 🥊 and CrossFit 🏋️ coach Looking for my first job as a python developer 🐍
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" alt="bartłomiej-juda | LinkedIn" width="22px" src="./linkedin.svg" />
-<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />
-<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./instagram.svg" />
-<img align="left" alt="tassiaaccioly | Dev.to" width="22px" src="./facebook.svg" />
+- 🤔 Looking for my first job as a python developer 🐍
+- 🌱 I’m currently learning PYTHON,MYsql coding
+- 📫 How to reach me: ...
+[<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./instagram.svg" />][instagram]
+[<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./facebook.svg" />][facebook]
+
+Hi! My name is Bartłomiej and for a long time I've wanted to start programming. During quarantine due to Covid-19 I had finally an opportunity to focus on it. I used to be a muaythai and crossfit athlete, then naturally I became a coach of these sports. I like sports very much and I like to help others to grow, but I also always had a lot of love for computers. During the lockdown caused by the pandemic I started to learn to code in python and I loved it. I try to develop my programming skills every day to find my first job as a python developer 
+
+[linkedin]: https://www.linkedin.com/in/bart%C5%82omiej-juda-9a9220224/
+[instagram]: https://www.instagram.com/bartekjuda_coach/?hl=pl
+[gmail]: mailto:bartekjkk@gmail.com
+[facebook]: https://www.facebook.com/bartek.juda.9
