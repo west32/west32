@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning PYTHON,MYsql coding
+- 🌱 I’m currently learning MySql and PYTHON
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 MuayThai 🥊 and CrossFit 🏋️ coach Looking for my first job as a python developer 🐍
@@ -17,6 +17,8 @@ MuayThai 🥊 and CrossFit 🏋️ coach Looking for my first job as a python de
 - 🤔 Looking for my first job as a python developer 🐍
 - 🌱 I’m currently learning PYTHON,MYsql coding
 - 📫 How to reach me: ...
+
+
 [<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./instagram.svg" />][instagram]
 [<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
