@@ -1,9 +1,10 @@
-### Hi there 👋
+## Hi, I'm Bart Juda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **west32/west32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[<img align="left" alt="bartłomiej-juda | LinkedIn" width="22px" src="./linkedin.svg" />]
+[<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />]
+[<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./instagram.svg" />]
+[<img align="left" alt="tassiaaccioly | Dev.to" width="22px" src="./facebook.svg" />]
