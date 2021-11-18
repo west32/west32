@@ -15,7 +15,7 @@ MuayThai 🥊 and CrossFit 🏋️ coach Looking for my first job as a python de
 - ⚡ Fun fact: ...
 -->
 - 🤔 Looking for my first job as a python developer 🐍
-- 🌱 I’m currently learning PYTHON,MYsql coding
+- 🌱 I’m currently learning MySql and Python
 - 📫 How to reach me: ...
 <br>
 
