@@ -19,10 +19,10 @@ MuayThai 🥊 and CrossFit 🏋️ coach Looking for my first job as a python de
 - 📫 How to reach me: ...
 <br>
 
-[<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt=" | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./instagram.svg" />][instagram]
-[<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
-[<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./facebook.svg" />][facebook]
+[<img align="left" alt=" | Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt=" | Medium" width="22px" src="./facebook.svg" />][facebook]
 <br>
 <br>
 Hi! My name is Bartłomiej and for a long time I've wanted to start programming. During quarantine due to Covid-19 I had finally an opportunity to focus on it. I used to be a muaythai and crossfit athlete, then naturally I became a coach of these sports. I like sports very much and I like to help others to grow, but I also always had a lot of love for computers. During the lockdown caused by the pandemic I started to learn to code in python and I loved it. I try to develop my programming skills every day to find my first job as a python developer 
