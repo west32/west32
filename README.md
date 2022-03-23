@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning MySql and PYTHON
+- 🌱 I’m currently learning PYTHON
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 MuayThai 🥊 and CrossFit 🏋️ coach Looking for my first job as a python developer 🐍
