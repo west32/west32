@@ -1,4 +1,4 @@
-## Hi, I'm Bart Juda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="119" height="51">
+## Hi, I'm Bart Juda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="35">
 
 <!--
 **west32/west32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
