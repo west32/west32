@@ -1,4 +1,4 @@
-## Hi, I'm Bart Juda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi, I'm Bart Juda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2px">
 
 <!--
 **west32/west32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ MuayThai 🥊 and CrossFit 🏋️ coach Looking for my first job as a python de
 - ⚡ Fun fact: ...
 -->
 - 🤔 Looking for my first job as a python developer 🐍
-- 🌱 I’m currently learning and Python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: ...
 <br>
 
