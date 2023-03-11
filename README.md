@@ -14,8 +14,9 @@ MuayThai 🥊 and CrossFit 🏋️ coach Looking for my first job as a python de
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🤔 Looking for my first job as a python developer 🐍
-- 🌱 I’m currently learning Python
+- 🤔 Looking for my first job as a junior/intern software developer  
+- 🌱 I’m currently learning Java
+- 🔭 I've got basic skills in Python 🐍
 - 📫 How to reach me: ...
 <br>
 
